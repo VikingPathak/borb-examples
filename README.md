@@ -7,7 +7,7 @@
   1.4 [How to use this book](#14-how-to-use-this-book)  
   1.5 [What you'll be able to do after reading this book](#15-what-youll-be-able-to-do-after-reading-this-book)  
     1.5.1 [Creating PDF documents from scratch](#151-creating-pdf-documents-from-scratch)  
-    1.5.2 [Aggregating content using containers ](#152-aggregating-content-using-containers-)  
+    1.5.2 [Aggregating content using containers ](#152-aggregating-content-using-containers)  
     1.5.3 [Forms](#153-forms)  
     1.5.4 [Manipulate existing PDF documents](#154-manipulate-existing-pdf-documents)  
     1.5.5 [Annotations](#155-annotations)  
